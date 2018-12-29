@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4cda41036f6a9d24d9b63eb76f92986e
+timeCreated: 1518377889
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Centaur
+  fontNames:
+  - Centaur
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
